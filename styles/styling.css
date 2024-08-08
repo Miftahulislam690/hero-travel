@@ -58,4 +58,33 @@
     .popular-img {
         margin-top: 2rem;
     }
+
+    .container-destination {
+        max-width: 90%;
+    }
+
+    .row-1, .row-2, .row-3 {
+        grid-template-columns: 1fr;
+    }
+
+    .container-destination-sub-title>br {
+        display: none;
+    }
+
+    .container-choose {
+        grid-template-columns: 1fr;
+        max-width: 90%;
+    }
+
+    .choose-container-card-3-parent {
+        max-width: 90%;
+    }
+
+    .choose-container-text {
+        max-width: 90%;
+    }
+
+    .container-choose-sub-title>br {
+        display: none; 
+    }
 }
